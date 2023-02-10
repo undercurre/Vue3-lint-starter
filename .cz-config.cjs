@@ -64,7 +64,7 @@ module.exports = {
   subjectSeparator: ':', // 短说明中的type分隔符，feat: this is a new feature
   // breaking
   askForBreakingChangeFirst : false, // 先询问是否是重大变更
-  breakingPrefix: 'BREAKING CHANGE:', // 设置重大改变的前缀
+  breakingPrefix: '!', // 设置重大改变的前缀
   allowBreakingChanges: ['feat', 'fix'], // 配置允许重大变更的type
   // footer
   allowTicketNumber: false,

@@ -35,7 +35,6 @@
     "husky": "^8.0.3",
     "lint-staged": "^13.1.1",
     "prettier": "^2.8.4",
-    "standard-version": "^9.5.0",
     "stylelint": "^15.0.0",
     "stylelint-config-standard": "^30.0.1",
     "stylelint-config-standard-scss": "^6.1.0",
